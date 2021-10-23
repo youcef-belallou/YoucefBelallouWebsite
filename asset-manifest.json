@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/YoucefBelallouWebsite/static/css/main.e1f11443.chunk.css",
-    "main.js": "/YoucefBelallouWebsite/static/js/main.00c87b1f.chunk.js",
-    "main.js.map": "/YoucefBelallouWebsite/static/js/main.00c87b1f.chunk.js.map",
+    "main.js": "/YoucefBelallouWebsite/static/js/main.a6f4bf64.chunk.js",
+    "main.js.map": "/YoucefBelallouWebsite/static/js/main.a6f4bf64.chunk.js.map",
     "runtime-main.js": "/YoucefBelallouWebsite/static/js/runtime-main.8c767e28.js",
     "runtime-main.js.map": "/YoucefBelallouWebsite/static/js/runtime-main.8c767e28.js.map",
     "static/css/2.0a9ec390.chunk.css": "/YoucefBelallouWebsite/static/css/2.0a9ec390.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.e397a161.chunk.js",
     "static/css/main.e1f11443.chunk.css",
-    "static/js/main.00c87b1f.chunk.js"
+    "static/js/main.a6f4bf64.chunk.js"
   ]
 }
