@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/YoucefBelallouWebsite/static/css/main.e1f11443.chunk.css",
+    "main.js": "/YoucefBelallouWebsite/static/js/main.e06a693c.chunk.js",
+    "main.js.map": "/YoucefBelallouWebsite/static/js/main.e06a693c.chunk.js.map",
+    "runtime-main.js": "/YoucefBelallouWebsite/static/js/runtime-main.8c767e28.js",
+    "runtime-main.js.map": "/YoucefBelallouWebsite/static/js/runtime-main.8c767e28.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/YoucefBelallouWebsite/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e397a161.chunk.js": "/YoucefBelallouWebsite/static/js/2.e397a161.chunk.js",
+    "static/js/2.e397a161.chunk.js.map": "/YoucefBelallouWebsite/static/js/2.e397a161.chunk.js.map",
+    "static/js/3.eda9ae6c.chunk.js": "/YoucefBelallouWebsite/static/js/3.eda9ae6c.chunk.js",
+    "static/js/3.eda9ae6c.chunk.js.map": "/YoucefBelallouWebsite/static/js/3.eda9ae6c.chunk.js.map",
+    "index.html": "/YoucefBelallouWebsite/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/YoucefBelallouWebsite/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.e1f11443.chunk.css.map": "/YoucefBelallouWebsite/static/css/main.e1f11443.chunk.css.map",
+    "static/js/2.e397a161.chunk.js.LICENSE.txt": "/YoucefBelallouWebsite/static/js/2.e397a161.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/YoucefBelallouWebsite/static/media/background.34fe2796.jpeg",
+    "static/media/front-photo.b671e8b8.jpg": "/YoucefBelallouWebsite/static/media/front-photo.b671e8b8.jpg",
+    "static/media/gradution_photo.24a42246.jpg": "/YoucefBelallouWebsite/static/media/gradution_photo.24a42246.jpg",
+    "static/media/logo.70f47f03.jpg": "/YoucefBelallouWebsite/static/media/logo.70f47f03.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c767e28.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e397a161.chunk.js",
+    "static/css/main.e1f11443.chunk.css",
+    "static/js/main.e06a693c.chunk.js"
+  ]
+}
