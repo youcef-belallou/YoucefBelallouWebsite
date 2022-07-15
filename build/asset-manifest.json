@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YoucefBelallouWebsite/static/css/main.688f956f.css",
-    "main.js": "/YoucefBelallouWebsite/static/js/main.67e8900e.js",
+    "main.js": "/YoucefBelallouWebsite/static/js/main.a18c9a33.js",
     "static/js/787.22105fd1.chunk.js": "/YoucefBelallouWebsite/static/js/787.22105fd1.chunk.js",
     "static/media/gradution_photo.jpg": "/YoucefBelallouWebsite/static/media/gradution_photo.24a42246c955cbfec845.jpg",
     "static/media/front-photo.jpg": "/YoucefBelallouWebsite/static/media/front-photo.b671e8b8027bd01f9b19.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.jpg": "/YoucefBelallouWebsite/static/media/logo.70f47f031a98b4b22890.jpg",
     "index.html": "/YoucefBelallouWebsite/index.html",
     "main.688f956f.css.map": "/YoucefBelallouWebsite/static/css/main.688f956f.css.map",
-    "main.67e8900e.js.map": "/YoucefBelallouWebsite/static/js/main.67e8900e.js.map",
+    "main.a18c9a33.js.map": "/YoucefBelallouWebsite/static/js/main.a18c9a33.js.map",
     "787.22105fd1.chunk.js.map": "/YoucefBelallouWebsite/static/js/787.22105fd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.688f956f.css",
-    "static/js/main.67e8900e.js"
+    "static/js/main.a18c9a33.js"
   ]
 }
