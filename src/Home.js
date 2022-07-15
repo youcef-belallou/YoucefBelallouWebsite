@@ -65,7 +65,7 @@ function Home() {
                         <div class="space2" />
                         <h3>YOUCEF BELALLOU </h3>
                         <p>
-                            Highly motivated Web developer. Did my undergrad studies in Electrical and Electronics Engineering. Started working as a Backend developer at Hotech and switched recently to Frontend topics. Moreever, I am a FullStack developer at Ecog working as freelancer. Enjoying working in a team and Collaborating to solve problems and achieve goals. Fast learner! looking always to discover new technologies and growing myself!
+                            Highly motivated Web developer. Did my undergrad studies in Electrical and Electronics Engineering. Started working as a Backend developer at Hotech (Turkey) and switched recently to Frontend topics. Moreover, I am a FullStack developer at Ecog (Germany) working as freelancer. Enjoying working in a team and Collaborating to solve problems and achieve goals. Fast learner! looking always to discover new technologies and growing myself!
                         </p>
                         <ol>
                             <p><i class="fa fa-graduation-cap"></i> Best senior project in the university (Antalya Bilim
@@ -254,7 +254,7 @@ function Home() {
                                     <b><LocationOnIcon/></b> Antalya - Turkey<br/>
                                 </li>
                                 <li>
-                                    <h4>Web Designer</h4>
+                                    <h4>Web Developer</h4>
                                     <b><i class="fa fa-circle" aria-hidden="true"></i>
                                         <a target='_blank' href='https://youcef-belallou.github.io/Weather-App/'> https://youcef-belallou.github.io/Weather-App/</a><br/>
                                         <ArrowRightAltIcon /> <i class="fa fa-skyatlas" aria-hidden="true"></i>  Build Weather App
