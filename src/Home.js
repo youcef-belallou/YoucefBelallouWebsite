@@ -65,7 +65,7 @@ function Home() {
                         <div class="space2" />
                         <h3>YOUCEF BELALLOU </h3>
                         <p>
-                            Highly motivated Web developer. Did my undergrad studies in Electrical and Electronics Engineering. Started working as a Backend developer at Hotech (Turkey) and switched recently to Frontend topics. Moreover, I am a FullStack developer at Ecog (Germany) working as freelancer. Enjoying working in a team and Collaborating to solve problems and achieve goals. Fast learner! looking always to discover new technologies and growing myself!
+                            Highly motivated Web developer. Did my undergrad studies in Electrical and Electronics Engineering. Started working as a Backend developer at Hotech (Turkey) and switched to Frontend topics. Moreover, I am a FullStack developer at Ecog (Germany) working as freelancer. Enjoying working in a team and Collaborating to solve problems and achieve goals. Fast learner! looking always to discover new technologies and growing myself!
                         </p>
                         <ol>
                             <p><i class="fa fa-graduation-cap"></i> Best senior project in the university (Antalya Bilim
